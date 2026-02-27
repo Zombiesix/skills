@@ -1,0 +1,10 @@
+{
+  "name": "my-awesome-skill",
+  "title": "front-end skill",
+  "description": "提升前端开发效率，提供项目初始化和最佳实践相关的 Skills。",
+  "version": "0.1.0",
+  "author": "Zombiesix",
+  "tags": ["ai", "agent", "claude", "vue3-template"],
+  "command": "npx skills add Zombiesix/skills --skill='*'",
+  "repository": "https://github.com/Zombiesix/skills"
+}
